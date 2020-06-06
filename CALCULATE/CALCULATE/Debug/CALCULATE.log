@@ -1,0 +1,6 @@
+﻿  calculate.cpp
+C:\Users\Денис\source\repos\CALCULATE\CALCULATE\calculate.h(346,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Денис\source\repos\CALCULATE\CALCULATE\calculate.h(354,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Денис\source\repos\CALCULATE\CALCULATE\calculate.h(362,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  calculate.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CALCULATE.vcxproj -> C:\Users\Денис\source\repos\CALCULATE\Debug\CALCULATE.exe

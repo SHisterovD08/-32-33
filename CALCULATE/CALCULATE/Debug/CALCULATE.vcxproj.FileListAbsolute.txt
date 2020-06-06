@@ -1,0 +1,3 @@
+C:\Users\Денис\source\repos\CALCULATE\CALCULATE\Debug\CALCULATE.vcxprojAssemblyReference.cache
+C:\Users\Денис\source\repos\CALCULATE\CALCULATE\Debug\CALCULATE.calculate.resources
+C:\Users\Денис\source\repos\CALCULATE\CALCULATE\Debug\CALCULATE.vcxproj.GenerateResource.cache

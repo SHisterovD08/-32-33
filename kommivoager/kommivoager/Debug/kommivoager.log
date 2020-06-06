@@ -1,0 +1,30 @@
+﻿  kommivoager.cpp
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(98,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(101,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(151,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(152,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(201,25): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(202,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(226,44): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(227,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(251,44): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(252,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(276,44): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(277,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(301,25): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(302,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(326,44): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(327,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(376,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(377,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(381,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(382,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(410,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(411,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(557,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(562,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(570,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\kommivoager\kommivoager\kommivoager.cpp(681,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+  Создание кода...
+  kommivoager.vcxproj -> C:\Users\Денис\source\repos\kommivoager\Debug\kommivoager.exe
